@@ -1,1 +1,0 @@
-FROM atsnngs/heroku-nginx
