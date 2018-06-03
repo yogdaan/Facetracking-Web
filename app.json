@@ -1,0 +1,5 @@
+{
+  "name": "Snapchat-Web",
+  "image": "atsnngs/heroku-nginx",
+  "addons": []
+}
