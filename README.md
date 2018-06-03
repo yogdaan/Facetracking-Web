@@ -11,7 +11,7 @@ This is a web version of snapchat app in mobile.
 2. Edit index.html like :
    After the last button code line create a new button with the name of the icon.
 3. Edit script.js like :
-   After the last const line, here - 5 create a line with the same words as line 5 andc edit the name of the button to your button                     name.
+   After the last const line, here line  5 create a line with the same words as line 5 and edit the name of the button to your button                     name.
    Copy the lines from 29 to 31 and reproduce it at line 32, edit the name of the button and the source of the icon to it.
  4. Preview it !!! Hooray!!!!!
     
