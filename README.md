@@ -1,4 +1,4 @@
-# [Snapchat-Web](https://web-snap.herokuapp.com/)
+# [FaceTracking-Web](https://web-snap.herokuapp.com/)
 
 This is a web version of snapchat app in mobile. 
 
